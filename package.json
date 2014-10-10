@@ -1,7 +1,7 @@
 {
     "name": "directory-walker",
     "description": "Directory walker",
-    "version": "1.2.4",
+    "version": "1.2.5",
     "homepage": "https://github.com/philidem/node-directory-walker",
     "authors": [
         {
